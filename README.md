@@ -1,8 +1,8 @@
 
 # Hi there 👋
 
-###<p align="center">Hello my name is Renato Rebouças 👨🏻‍💻 🚀</p> 
-###<p align="center">I'm a web developer</p>
+<p align="center"><h2>Hello my name is Renato Rebouças 👨🏻‍💻 🚀</h2</p> 
+<p align="center">I'm a web developer</p>
 
 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat-square&labelColor=blue&logo=twitter&logoColor=white&link=https://twitter.com/https_zero6)](https://twitter.com/https_zero6)
@@ -10,7 +10,7 @@
 
 
 
-#<p align="center"> "Conhecimento nunca é de mais."🧠</p>
+<p align="center"> "Conhecimento nunca é de mais."🧠</p>
 
 
 <p align="center">

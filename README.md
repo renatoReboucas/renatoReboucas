@@ -10,7 +10,7 @@
 
 
 
-<p align="center"> "Conhecimento nunca é de mais."🧠</p>
+<h3><p align="center"> "Conhecimento nunca é de mais."🧠</p></h3>
 
 
 <p align="center">

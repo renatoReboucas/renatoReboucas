@@ -1,7 +1,7 @@
 
 # Hi there 👋
 
-<h2><p align="center">Hello my name is Renato Rebouças 👨🏻‍💻 🚀</p></h2>
+<h3><p align="center">Hello my name is Renato Rebouças 👨🏻‍💻 🚀</p></h3>
 <p align="center">I'm a web developer</p>
 
 

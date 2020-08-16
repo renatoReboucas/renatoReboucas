@@ -22,8 +22,10 @@
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=renatoReboucas&show_icons=true&theme=dracula" alt="renatoReboucas"/> 
 </p>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatoReboucas&layout=compact" alt="renatoReboucas"/> 
+</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renatoReboucas&layout=compact)]
 
 
 <!-- 

@@ -20,9 +20,10 @@
 <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original.svg" alt="nodejs" width="20" height="20"/></p>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=renatoReboucas&show_icons=true%22" alt="renatoReboucas"/> 
+<img src="https://github-readme-stats.vercel.app/api?username=renatoReboucas&show_icons=true&theme=dracula" alt="renatoReboucas"/> 
 </p>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renatoReboucas&layout=compact)]
 
 
 <!-- 
@@ -40,7 +41,7 @@
   <img src="./giphy.gif" alt="developer cat" />
 </h1>
 -->
-### programming languages
+### Programming Languages
 
 - [x] PHP
 - [x] JavaScript

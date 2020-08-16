@@ -4,11 +4,11 @@
 <p align="center">Hello my name is Renato Rebouças 👨🏻‍💻 🚀</p> 
 <p align="center">I'm a web developer</p>
 
-<hr>
+
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-6633cc?style=flat-square&labelColor=6633cc&logo=twitter&logoColor=white&link=https://twitter.com/https_zero6)](https://twitter.com/https_zero6)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/renato-rebou%C3%A7as-9bb008132/)](https://www.linkedin.com/in/renato-rebou%C3%A7as-9bb008132/) 
 
-<hr>
+
 
 <p align="left"> "Conhecimento nunca é de mais."🧠</p>
 

@@ -1,8 +1,10 @@
 
 # Hi there 👋
 
-<p align="center">Hello my name is Renato Rebouças 👨🏻‍💻 :rocket:</p>
+<p align="center">Hello my name is Renato Rebouças 👨🏻‍💻 🚀</p> 
 <p align="center">I'm a web developer</p>
+
+<p align="left"> "Conhecimento nunca é de mais."🧠</p>
 
 ### programming languages
 
@@ -20,12 +22,15 @@
 <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3"  width="20" height="20"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5"  width="20" height="20"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="20" height="20"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original.svg" alt="nodejs" width="20" height="20"/></p><p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=maykbrito&show_icons=true" alt="maykbrito"/> 
+<img src="https://github-readme-stats.vercel.app/api?username=renatoReboucas&show_icons=true%22" alt="maykbrito"/> 
 </p>
 
 
+[![Twitter Badge](https://img.shields.io/badge/-@dieegosf-6633cc?style=flat-square&labelColor=6633cc&logo=twitter&logoColor=white&link=https://twitter.com/https_zero6)](https://twitter.com/https_zero6)
+[![Linkedin Badge](https://img.shields.io/badge/-Diego%20Fernandes-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/renato-rebou%C3%A7as-9bb008132/)](https://www.linkedin.com/in/renato-rebou%C3%A7as-9bb008132/) 
+
+<!-- 
 [![alt text][1.1]][1]
 [![alt text][2.1]][2]
 
@@ -35,6 +40,7 @@
 
 [1]: https://twitter.com/https_zero6
 [2]: https://www.facebook.com/tinho361/
+-->
 
 
 <h1 align="center">

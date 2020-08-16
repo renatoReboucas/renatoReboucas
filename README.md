@@ -49,5 +49,5 @@
 
 
 <h1 align="center">
-  <img src="giphy.gif" />
+  <img src="./giphy.gif" alt="developer cat" />
 </h1>

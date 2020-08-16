@@ -27,8 +27,8 @@
 </p>
 
 
-[![Twitter Badge](https://img.shields.io/badge/-@dieegosf-6633cc?style=flat-square&labelColor=6633cc&logo=twitter&logoColor=white&link=https://twitter.com/https_zero6)](https://twitter.com/https_zero6)
-[![Linkedin Badge](https://img.shields.io/badge/-Diego%20Fernandes-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/renato-rebou%C3%A7as-9bb008132/)](https://www.linkedin.com/in/renato-rebou%C3%A7as-9bb008132/) 
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-6633cc?style=flat-square&labelColor=6633cc&logo=twitter&logoColor=white&link=https://twitter.com/https_zero6)](https://twitter.com/https_zero6)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/renato-rebou%C3%A7as-9bb008132/)](https://www.linkedin.com/in/renato-rebou%C3%A7as-9bb008132/) 
 
 <!-- 
 [![alt text][1.1]][1]

@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://giphy.com/gifs/JIX9t2j0ZTN9S/html5" />
+  <img src="giphy.gif" />
 </h1>
 
 ### Hi there 👋

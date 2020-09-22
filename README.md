@@ -22,10 +22,9 @@
 </p>
 -->
 
-<p align="center">
-  ![Renato Reboucas github stats](https://github-readme-stats.vercel.app/api?username=renatoReboucas&show_icons=true&theme=dracula")
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renatoReboucas&layout=compact&theme=dracula")
-</p>
+![Renato Reboucas github stats](https://github-readme-stats.vercel.app/api?username=renatoReboucas&show_icons=true&theme=dracula")
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renatoReboucas&layout=compact&theme=dracula")
+
 
 <!-- 
 [![alt text][1.1]][1]

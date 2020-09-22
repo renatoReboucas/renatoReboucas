@@ -2,7 +2,7 @@
 # Hi there 👋
 
 <h3><p align="center">Hello my name is Renato Rebouças 👨🏻‍💻 🚀</p></h3>
-<p align="center">I'm a web developer</p>
+<p align="center">I'm a web developer and student</p>
 
 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat-square&labelColor=blue&logo=twitter&logoColor=white&link=https://twitter.com/https_zero6)](https://twitter.com/https_zero6)
@@ -19,12 +19,12 @@
 <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5"  width="20" height="20"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original.svg" alt="nodejs" width="20" height="20"/></p>
+
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=renatoReboucas&show_icons=true&theme=dracula" alt="renatoReboucas"/> 
+![Renato Reboucas github stats](https://github-readme-stats.vercel.app/api?username=renatoReboucas&show_icons=true&theme=dracula" alt="renatoReboucas)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renatoReboucas&layout=compact&theme=dracula" alt="renatoReboucas)
 </p>
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatoReboucas&layout=compact&theme=dracula" alt="renatoReboucas"/> 
-</p>
+
 
 
 

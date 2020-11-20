@@ -13,7 +13,7 @@
 <h3><p align="center"> "Conhecimento nunca é de mais."🧠</p></h3>
 <br/>
 <h3><p align="center"> Esse é meu jeito dev de ser!</p></h3>
-
+<br/>
 <!--
 <p align="center">
 <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="20" height="20"/>

@@ -1,64 +1,65 @@
+<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
 
-# Hello everyone 👋
+###
 
-<h3><p align="center">Hello my name is Renato Rebouças 👨🏻‍💻 🚀</p></h3>
-<p align="center">I'm a web developer and student</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vue-dark&locale=pt-br&hide_border=false&username=renatoReboucas" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vue-dark&hide_border=false&username=renatoReboucas" height="150" alt="languages graph"  />
+</div>
 
+###
 
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat-square&labelColor=blue&logo=twitter&logoColor=white&link=https://twitter.com/https_zero6)](https://twitter.com/https_zero6)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/renato-rebou%C3%A7as-9bb008132/)](https://www.linkedin.com/in/renato-rebou%C3%A7as-9bb008132/) 
+<img align="right" height="150" src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif"  />
 
+###
 
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="30" width="42" alt="typescript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" width="42" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="42" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="42" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" width="42" alt="nextjs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" width="42" alt="nodejs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="30" width="42" alt="vuejs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" width="42" alt="vscode logo"  />
+</div>
 
-<h3><p align="center"> "Conhecimento nunca é demais."🧠</p></h3>
-<br/>
-<h3><p align="center"> Esse é meu jeito dev de ser!</p></h3>
-<br/>
-<!--
-<p align="center">
-<img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="20" height="20"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3"  width="20" height="20"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5"  width="20" height="20"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original.svg" alt="nodejs" width="20" height="20"/>
-</p>
--->
+###
 
-![Renato Reboucas github stats](https://github-readme-stats.vercel.app/api?username=renatoReboucas&show_icons=true&theme=tokyonight")
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renatoReboucas&layout=compact&theme=tokyonight")
+<div align="left">
+  <a href="https://www.instagram.com/renato_reboucas/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="renato_reboucas#6070" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/renatoreboucas/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="https://twitter.com/https_zero6" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
+  </a>
+</div>
 
+###
 
-<!-- 
-[![alt text][1.1]][1]
-[![alt text][2.1]][2]
+<br clear="both">
 
-[1.1]: http://i.imgur.com/tXSoThF.png
-[2.1]: http://i.imgur.com/P3YfQoD.png
+<img src="https://raw.githubusercontent.com/renato/renato/blob/output/snake.svg" alt="Snake animation" />
 
+###
 
-[1]: https://twitter.com/https_zero6
-[2]: https://www.facebook.com/tinho361/
+<div align="center">
+  <a href="https://open.spotify.com/user/224f2ngap4nybjbu4tlgp4skq">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
+  </a>
+</div>
 
-<h1 align="center">
-  <img src="./giphy.gif" alt="developer cat" />
-</h1>
--->
-## ⚡️ Technologies
+###
 
-These are some of the technologies and tools that I like and study:
+<div align="center">
+  <img src="https://profile-counter.glitch.me/renato/count.svg?"  />
+</div>
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![NodeJS](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white)
-![ExpressJS](https://img.shields.io/badge/-ExpressJS-green?style=flat-square&logo=expressjs)
-![Knex.JS](https://img.shields.io/badge/-Knex.JS-e16426?style=flat-square&logo=knex.js&logoColor=white)
-![ReactJs](https://img.shields.io/badge/-ReactJS-7209b7?style=flat-square&logo=react&logoColor=white)
-![React Native](https://img.shields.io/badge/-React%20Native-7209b7?style=flat-square&logo=react&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-
-
-
+###

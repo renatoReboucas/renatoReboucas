@@ -53,7 +53,7 @@
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/renato/count.svg?"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=renatoReboucas.renatoReboucas&"  />
 </div>
 
 ###
